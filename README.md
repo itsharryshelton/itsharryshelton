@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a Cloud Engineer, currently on a journey to become a certified and experienced Cloud Architect. I specialise in Microsoft Azure and Cloudflare, and I’m constantly expanding my skills in infrastructure-as-code, automation, and cloud-native technologies.
+I'm a Cloud Engineer. I specialise in Microsoft Azure and Cloudflare, and I’m constantly expanding my skills in infrastructure-as-code, automation, and cloud-native technologies.
 
 ## 🧠 About Me
 
