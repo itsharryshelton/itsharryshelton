@@ -8,3 +8,6 @@ My main job focus is DevOps, Azure & Cloudflare Design and Deployments for enter
 
 - Website: [harryshelton.com](https://harryshelton.com/)
 - LinkedIn: [linkedin.com/in/harryshelton](https://www.linkedin.com/in/harryshelton/)
+
+![Cloudflare Usage](https://cloudflarestats.harry-036.workers.dev/minimal?days=30)
+  
