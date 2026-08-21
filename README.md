@@ -8,5 +8,6 @@ My main job focus is DevOps, Azure & Cloudflare Design and Deployments for enter
 
 - Website: [harryshelton.com](https://harryshelton.com/)
 - LinkedIn: [linkedin.com/in/harryshelton](https://www.linkedin.com/in/harryshelton/)
+- Proxy Everything Blog: [https://proxyeverything.uk/](https://proxyeverything.uk/)
 
-![Cloudflare Usage](https://cloudflarestatswidget.harryshelton.uk/dashboard?days=7)  
+![Cloudflare Usage](https://cloudflarestatswidget.harryshelton.uk/dashboard)  
